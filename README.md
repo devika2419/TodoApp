@@ -39,5 +39,5 @@ Ensure you have the following installed on your local machine:
   4. Run the Application
 
      ~~~bash
-     mpm run dev
+     npm run dev
      
