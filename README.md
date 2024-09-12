@@ -26,7 +26,7 @@ Ensure you have the following installed on your local machine:
      ```bash
      npm i
 
-  3. Set Up ENvironment Variables
+  3. Set Up Environment Variables
 
      ### Environment Variables
 
